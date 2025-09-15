@@ -50,4 +50,3 @@ chmod +x nexus-setup.sh
 ```bash
 nexus-cli --help
 
-
