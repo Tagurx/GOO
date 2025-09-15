@@ -43,6 +43,11 @@ chmod +x nexus-setup.sh
 
 # Run
 ./nexus-setup.sh
+```
+### 6. Run the Nexus CLI (Optional)
+### Once the script has completed, you can use the Nexus CLI manually from any terminal session:
 
+```bash
+nexus-cli --help
 
 
