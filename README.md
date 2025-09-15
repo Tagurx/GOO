@@ -20,6 +20,11 @@ The script performs the following steps:
 
 ### 1. Clone this repository or download the script
 
+2. Get Your Wallet Address and Node ID
+
+To obtain your wallet address and node ID, please visit https://nexus.xyz
+ and sign up or sign in to your account.
+
 ```bash
 git clone https://github.com/Tagurx/GOO.git
 cd GOO
